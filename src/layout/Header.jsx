@@ -73,7 +73,7 @@ const Header = () => {
         <div 
           className="absolute inset-0 bg-cover bg-no-repeat bg-center"
           style={{ 
-            backgroundImage: `url(/model.png)`,
+            backgroundImage: `url(/model.svg)`,
             backgroundSize: 'cover',
             backgroundPosition: 'center 30%'
           }}

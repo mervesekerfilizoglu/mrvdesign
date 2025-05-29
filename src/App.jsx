@@ -4,12 +4,15 @@ import ShopPage from "./pages/ShopPage";
 import FluıdPage from "./pages/FluıdPage";
 import ProductCard from "./components/ProductCard";
 import Blog from "./pages/Blog";
+import Carousel from "./pages/Carousel";
+
 function App() {
   return (
     <>
       <Header />
      <ShopPage />
      <ProductCard />
+     <Carousel />
      <FluıdPage />
      <Blog />
      <Footer />
