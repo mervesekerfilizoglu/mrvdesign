@@ -3,14 +3,17 @@ import Footer from "./layout/Footer";
 import ShopPage from "./pages/ShopPage";
 import FluıdPage from "./pages/FluıdPage";
 import ProductCard from "./components/ProductCard";
+import Blog from "./pages/Blog";
 function App() {
   return (
     <>
       <Header />
-     <Footer />
      <ShopPage />
-     <FluıdPage />
      <ProductCard />
+     <FluıdPage />
+     <Blog />
+     <Footer />
+     
     </>
   );
 }
