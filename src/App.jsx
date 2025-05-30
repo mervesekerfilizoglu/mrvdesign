@@ -8,6 +8,7 @@ import Carousel from "./pages/Carousel";
 
 
 import ShopanaPage from "./pages/ShopanaPage";
+import ProductDetailanaPage  from "./pages/ProductDetailanaPage";
 
 function App() {
   return (
@@ -21,6 +22,12 @@ function App() {
      <Footer />
       <Header />
      <ShopanaPage />
+     <Footer />
+
+
+
+     <Header />
+     <ProductDetailanaPage />
      <Footer />
     </>
   );

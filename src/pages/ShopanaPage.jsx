@@ -164,7 +164,7 @@ const brandImages = [
 
 
 
-      <div className="max-w-6xl mx-auto flex justify-between items-center">
+      <div className="max-w-6xl mx-auto flex justify-between items-center mt-8">
         {brandImages.map((image, index) => (
           <img 
             key={index}
