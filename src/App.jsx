@@ -6,6 +6,9 @@ import ProductCard from "./components/ProductCard";
 import Blog from "./pages/Blog";
 import Carousel from "./pages/Carousel";
 
+
+import ShopanaPage from "./pages/ShopanaPage";
+
 function App() {
   return (
     <>
@@ -16,7 +19,9 @@ function App() {
      <FluıdPage />
      <Blog />
      <Footer />
-     
+      <Header />
+     <ShopanaPage />
+     <Footer />
     </>
   );
 }
