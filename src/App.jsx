@@ -10,6 +10,7 @@ import AboutanaPage from "./pages/AboutanaPage";
 
 import ShopanaPage from "./pages/ShopanaPage";
 import ProductDetailanaPage  from "./pages/ProductDetailanaPage";
+import ContactanaPage from "./pages/ContactanaPage";
 
 function App() {
   return (
@@ -35,6 +36,10 @@ function App() {
 
  <AboutanaPage />
      <Footer />
+
+
+      <ContactanaPage />
+       <Footer />
     </>
   );
 }
