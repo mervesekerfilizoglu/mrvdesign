@@ -9,18 +9,16 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center mb-12">
           <h2 className="text-2xl font-bold text-gray-900 mb-4 md:mb-0">Bandage</h2>
           <div className="flex space-x-4">
-            <a href="#" className="text-gray-500 hover:text-blue-600">
+            <a href="#" className=" hover:text-blue-600">
               <FaFacebookF size={20} />
             </a>
-            <a href="#" className="text-gray-500 hover:text-blue-400">
+            <a href="#" className=" hover:text-blue-400">
               <FaTwitter size={20} />
             </a>
-            <a href="#" className="text-gray-500 hover:text-pink-600">
+            <a href="#" className=" hover:text-pink-600">
               <FaInstagram size={20} />
             </a>
-            <a href="#" className="text-gray-500 hover:text-blue-700">
-              <FaLinkedinIn size={20} />
-            </a>
+            
           </div>
         </div>
 
