@@ -123,6 +123,25 @@ const ContactanaPage = () => {
 
 
 
+ {/* Previous sections... */}
+
+      {/* CTA Section */}
+      
+      <div className="max-w-4xl mx-auto px-8 text-center text-black -mt-10">
+  <div className="flex justify-center mb-6">
+    <img src="/ok3.svg" alt="Checkmark" className="w-16 h-16" />
+  </div>
+  <h2 className="text-sm md:text-base font-bold mb-4">WE CAN'T WAIT TO MEET YOU</h2>
+  <h3 className="text-5xl font-medium mb-8">Let's Talk</h3>
+  <button className="bg-blue-700 text-white hover:bg-blue-800 px-8 py-3 rounded-md font-bold text-lg transition-colors duration-300">
+    Try it free now
+  </button>
+</div>
+
+
+      
+
+
 
     </div>
 
