@@ -11,7 +11,7 @@ import AboutanaPage from "./pages/AboutanaPage";
 import ShopanaPage from "./pages/ShopanaPage";
 import ProductDetailanaPage  from "./pages/ProductDetailanaPage";
 import ContactanaPage from "./pages/ContactanaPage";
-
+import TeamanaPage from "./pages/TeamanaPage";
 function App() {
   return (
     <>
@@ -39,6 +39,11 @@ function App() {
 
 
       <ContactanaPage />
+       <Footer />
+
+
+
+       <TeamanaPage />
        <Footer />
     </>
   );
